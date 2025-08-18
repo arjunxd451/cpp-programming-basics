@@ -10,19 +10,19 @@
 | 8   | Find the remainder when one number is divided by another.               | <ul><li>- [x] </li></ui> |
 | 9   | Swap two variables.                                                     | <ul><li>- [x] </li></ui> |
 | 10  | Check if a number is even or odd.                                       | <ul><li>- [x] </li></ui> |
-| 11  | Calculate the average of three numbers.                                 | <ul><li>- [ ] </li></ui> |
-| 12  | Find the largest of two numbers.                                        | <ul><li>- [ ] </li></ui> |
-| 13  | Find the smallest of two numbers.                                       | <ul><li>- [ ] </li></ui> |
-| 14  | Calculate the square of a number.                                       | <ul><li>- [ ] </li></ui> |
-| 15  | Calculate the cube of a number.                                         | <ul><li>- [ ] </li></ui> |
-| 16  | Find the area of a circle (given the radius).                           | <ul><li>- [ ] </li></ui> |
-| 17  | Find the circumference of a circle (given the radius).                  | <ul><li>- [ ] </li></ui> |
-| 18  | Calculate the power of a number (using the exponent operator).          | <ul><li>- [ ] </li></ui> |
-| 19  | Calculate the power of a number (using a loop).                         | <ul><li>- [ ] </li></ui> |
-| 20  | Print the ASCII value of a character.                                   | <ul><li>- [ ] </li></ui> |
-| 21  | Print the first 10 natural numbers.                                     | <ul><li>- [ ] </li></ui> |
-| 22  | Calculate the sum of the first n natural numbers.                       | <ul><li>- [ ] </li></ui> |
-| 23  | Calculate the product of the first n natural numbers.                   | <ul><li>- [ ] </li></ui> |
+| 11  | Calculate the average of three numbers.                                 | <ul><li>- [x] </li></ui> |
+| 12  | Find the largest of two numbers.                                        | <ul><li>- [x] </li></ui> |
+| 13  | Find the smallest of two numbers.                                       | <ul><li>- [x] </li></ui> |
+| 14  | Calculate the square of a number.                                       | <ul><li>- [x] </li></ui> |
+| 15  | Calculate the cube of a number.                                         | <ul><li>- [x] </li></ui> |
+| 16  | Find the area of a circle (given the radius).                           | <ul><li>- [x] </li></ui> |
+| 17  | Find the circumference of a circle (given the radius).                  | <ul><li>- [x] </li></ui> |
+| 18  | Calculate the power of a number (using the exponent operator).          | <ul><li>- [x] </li></ui> |
+| 19  | Calculate the power of a number (using a loop).                         | <ul><li>- [x] </li></ui> |
+| 20  | Print the ASCII value of a character.                                   | <ul><li>- [x] </li></ui> |
+| 21  | Print the first 10 natural numbers.                                     | <ul><li>- [x] </li></ui> |
+| 22  | Calculate the sum of the first n natural numbers.                       | <ul><li>- [x] </li></ui> |
+| 23  | Calculate the product of the first n natural numbers.                   | <ul><li>- [x] </li></ui> |
 | 24  | Check if a given character is a vowel or consonan                       | <ul><li>- [ ] </li></ui> |
 | 25  | Check if a number is divisible by 5 and 11.                             | <ul><li>- [ ] </li></ui> |
 | 26  | Check if a year is a leap year.                                         | <ul><li>- [ ] </li></ui> |
