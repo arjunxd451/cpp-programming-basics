@@ -23,10 +23,10 @@
 | 21  | Print the first 10 natural numbers.                                     | <ul><li>- [x] </li></ui> |
 | 22  | Calculate the sum of the first n natural numbers.                       | <ul><li>- [x] </li></ui> |
 | 23  | Calculate the product of the first n natural numbers.                   | <ul><li>- [x] </li></ui> |
-| 24  | Check if a given character is a vowel or consonan                       | <ul><li>- [ ] </li></ui> |
-| 25  | Check if a number is divisible by 5 and 11.                             | <ul><li>- [ ] </li></ui> |
-| 26  | Check if a year is a leap year.                                         | <ul><li>- [ ] </li></ui> |
-| 27  | Find the largest among three numbers.                                   | <ul><li>- [ ] </li></ui> |
+| 24  | Check if a given character is a vowel or consonan                       | <ul><li>- [x] </li></ui> |
+| 25  | Check if a number is divisible by 5 and 11.                             | <ul><li>- [x] </li></ui> |
+| 26  | Check if a year is a leap year.                                         | <ul><li>- [x] </li></ui> |
+| 27  | Find the largest among three numbers.                                   | <ul><li>- [x] </li></ui> |
 | 28  | Determine the grade of a student based on their marks.                  | <ul><li>- [ ] </li></ui> |
 | 29  | Check if a character is an alphabet or not.                             | <ul><li>- [ ] </li></ui> |
 | 30  | Check if a character is a digit or not.                                 | <ul><li>- [ ] </li></ui> |
