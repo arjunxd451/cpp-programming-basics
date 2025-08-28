@@ -73,3 +73,4 @@
 | 71  | Sum of Array Elements: Calculate the sum of all elements in an array.    | <ul><li>- [ ] </li></ui> |
 | 72  | Average of Array Elements: Calculate the average of all elements in an array. | <ul><li>- [ ] </li></ui> |
 | 73  | Reverse an Array: Reverse the order of elements in an array.             | <ul><li>- [ ] </li></ui> |
+Made by Arjunn
