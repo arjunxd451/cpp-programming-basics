@@ -1,3 +1,8 @@
+# C++ Programming Basics 🚀
+Made by Arjun Rajeev 🙌
+
+This is my collection of beginner-friendly C++ programs.
+
 | SNo | Program                                                                 | Progress |
 |-----|-------------------------------------------------------------------------|----------|
 | 1   | Print "Namah Shivaya ! "                                                | <ul><li>- [x] </li></ui> |
